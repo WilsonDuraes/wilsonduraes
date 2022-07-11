@@ -33,7 +33,7 @@
       </td>
       <td width="25%" align="center">
         <span>Matplotlib</span><br><br>
-        <img height="64px" src="https://matplotlib.org/_static/images/documentation.png">
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png">
       </td>
     </tr>
   </tbody>
