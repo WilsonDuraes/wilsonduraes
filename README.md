@@ -31,6 +31,10 @@
         <span>NumPy</span><br><br>
         <img height="64px" src="https://www.freecodecamp.org/news/content/images/size/w2000/2020/09/numpy-1.png">
       </td>
+      <td width="25%" align="center">
+        <span>Matplotlib</span><br><br>
+        <img height="64px" src="https://matplotlib.org/_static/images/documentation.png">
+      </td>
     </tr>
   </tbody>
 </table>
