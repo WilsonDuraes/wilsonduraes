@@ -18,6 +18,22 @@
 
 <table>
   <tbody>
+    <td width="25%" align="center">
+        <span>Excel</span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg/1101px-Microsoft_Office_Excel_%282019%E2%80%93present%29.svg.png">
+      </td>
+    <td width="25%" align="center">
+        <span>VBA</span><br><br>
+        <img height="64px" src="https://wyday.com/images/lm/langs/vba.svg">
+      </td>
+    <td width="25%" align="center">
+        <span>Google Sheets</span><br><br>
+        <img height="64px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/Google_Sheets_logo_%282014-2020%29.svg/1498px-Google_Sheets_logo_%282014-2020%29.svg.png">
+      </td>
+    <td width="25%" align="center">
+        <span>Apps Script</span><br><br>
+        <img height="64px" src="https://seeklogo.com/images/G/google-apps-script-logo-BDEAA5E2DF-seeklogo.com.png">
+      </td>
     <tr valign="top">
       <td width="25%" align="center">
         <span><b>Python</b></span><br><br>
