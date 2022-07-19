@@ -14,7 +14,7 @@
   <a href="https://instagram.com/wilsonduraes.n" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=black" target="_blank"></a>
 </div>
   
-## Domínio
+## Meu domínio
 
 <table>
   <tbody>
@@ -55,6 +55,22 @@
   </tbody>
 </table>
 
+### Outras ferramentas que tenho contato
+
+<table>
+  <tbody>
+    <td width="25%" align="center">
+        <span>JavaScript</span><br><br>
+        <img height="64px" src="https://logospng.org/download/javascript/logo-javascript-1024.png">
+      </td>
+    <td width="25%" align="center">
+        <span>HTML</span><br><br>
+        <img height="64px" src="https://logodownload.org/wp-content/uploads/2016/10/html5-logo-8.png">
+      </td>
+    </tr>
+  </tbody>
+</table>
+  
 # Sobre mim
 
 Sou estudante de Data Science e busco desafios principalmente de Analytics, para desenvolver ainda mais as habilidades de Python, principalmente ferramentas como o NumPy e o Pandas, mas ainda com interesse em cultivar skills de SQL, JavaScript e HTML, além de outras que podem surgir no caminho ou por interesse pessoal (como Flutter).
